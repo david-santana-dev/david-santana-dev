@@ -1,32 +1,18 @@
-#### Aloe, I'm David Santana 👋
-
-![header banner](img/github-header-banner.png)
-I’m a full-stack developer, part-time bug whisperer, and occasional overthinker of variable names. Most of my projects were born from caffeine highs, curiosity dives, long debugging sessions, and a suspiciously high number of visits to Stack Overflow.
-
-I write clean code (or at least code that looks clean after three refactors), and I enjoy building things that actually work—preferably on the first try, but realistically, after a few “why is this not working?!” moments.
-
-If you’re into maintainable software, clever solutions, and occasional commit messages like `fix: it finally works don’t ask me why`, feel free to scroll around or reach out.
-Also, if you find a weird bug in one of my repos… congratulations, you’ve just unlocked a bonus feature 🐞✨
-
-Those things definitely weren’t written by AI… unless AI is getting way too good at this.
-
-<!--
-**david-santana-dev/david-santana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-> Here's some things you might want to know about me:
+# 💫 About Me:
+#### Aloe, I'm David Santana 👋<br>
+![header banner](img/github-header-banner.png)<br>I’m a full-stack developer, part-time bug whisperer, and occasional overthinker of variable names. Most of my projects were born from caffeine highs, curiosity dives, long debugging sessions, and a suspiciously high number of visits to Stack Overflow.<br><br>I write clean code (or at least code that looks clean after three refactors), and I enjoy building things that actually work—preferably on the first try, but realistically, after a few “why is this not working?!” moments.<br><br>If you’re into maintainable software, clever solutions, and occasional commit messages like `fix: it finally works don’t ask me why`, feel free to scroll around or reach out.<br>Also, if you find a weird bug in one of my repos… congratulations, you’ve just unlocked a bonus feature 🐞✨<br><br>Those things definitely weren’t written by AI… unless AI is getting way too good at this 🤖🤓<br>
+##### Here's some things you might want to know about me:
 - 🔭 I’m currently working on a POS project (it's still underway, so no peeking!)
-- 🌱 I’m currently learning **Laravel** and **ReactJS** while working on my projects
+- 🌱 I’m currently learning **Laravel** and **ReactJS** among other things while working on my projects
 
-> ##### My Other Skills
+
+## 🌐 Let's get in touch:
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dapidmini) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1235167) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dapidmini) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david.santana.1112@gmail.com) 
+
+## 💻 See what I can do:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
